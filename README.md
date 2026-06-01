@@ -12,7 +12,7 @@ GlobaLens is an AI‑powered platform that turns the fire‑hose of global news 
 
 | **Live Event Mapping**       | Streams GDELT events and plots them on an interactive globe (react‑globe.gl).                                            |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **Filters & Timelines**      | Narrow results by date or event type to focus on a specific window.                                                      |
+| **Filters and Timelines**      | Narrow results by date or event type to focus on a specific window.                                                      |
 | **Semantic Chat Search**     | Query with natural language (e.g. "recent drought impacts") and retrieve related events via MongoDB Atlas Vector Search. |
 | **Instant Summaries**        | Click any point on the map to see an AI‑generated TL;DR of the article, publication date, and source URL.                |
 | **Similar Events Discovery** | Each summary includes a *“Find similar”* button that clusters semantically close events.                                 |
