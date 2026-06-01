@@ -1,6 +1,6 @@
 # GlobaLens: See Beyond the Headlines
 
-GlobaLens is an AI‑powered platform that turns the fire‑hose of global news into an interactive, searchable world map. We combine real‑time data ingestion (GDELT), geospatial visualization, and semantic vector search so that journalists, analysts, and decision‑makers can explore unfolding stories quickly—and in context.
+GlobaLens is an AI‑powered platform that turns the fire‑hose of global news into an interactive, searchable world map. We combine real‑time data ingestion (GDELT), geospatial visualization, and semantic vector search so that journalists, analysts, and decision‑makers can explore unfolding stories quickly and in context.
 
 ---
 
